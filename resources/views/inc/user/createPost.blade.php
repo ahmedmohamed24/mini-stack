@@ -9,6 +9,16 @@
                 tinycomments_author: 'EGY',
             });
         })
+        /*jQuery.ajax = new Proxy(jQuery.ajax, {
+            apply: function(target, thisArg, argumentsList) {
+                const req = target.apply(thisArg, argumentsList);
+                const rootUrl = '//geodata.solutions/api/api.php';
+                if (argumentsList[0].url.indexOf(rootUrl) !== -1) {
+                    req.done(() => console.log(`request to ${argumentsList[0].url} completed`))
+                }
+                return req;
+            }
+        });*/
     </script>
 @endsection
 
