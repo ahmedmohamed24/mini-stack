@@ -15,8 +15,8 @@ class CreateRepliesTable extends Migration
     {
         Schema::create('replies', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('message_id');
-            $table->foreign('message_id')->references('id')->on('messages');
+            $table->foreignId('comment_id');
+            $table->foreign('comment_id')->references('id')->on('messages');
             $table->foreignId('user_id');
             $table->foreign('user_id')->references('id')->on('users');
             $table->text('content');

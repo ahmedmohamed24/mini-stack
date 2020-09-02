@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae22b543-7ecb-4e9c-aff3-2b222844e1e9" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/resources/views/visitor/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ResetPassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ResetPassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Home/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Home/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Home/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/PasswordReset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/PasswordReset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/alerts/notUser.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/alerts/notUser.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/emails/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/emails/reset.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/confirmPass.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/confirmPass.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/image.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/image.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/name.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/name.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/password.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/specialization.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/errors/specialization.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/footer.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/nav.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/upload.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/upload.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/visitor/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/visitor/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ResetPassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ResetPassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Chat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/CommentEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/CommentEdit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Like.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Like.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Message.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/PasswordReset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/PasswordReset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/QuestionEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/QuestionEdit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Reply.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Reply.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/SavedQuestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/SavedQuestion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_13_123944_create_saved_questions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_13_123944_create_saved_questions_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_13_124015_create_chats_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_13_124015_create_chats_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_13_124057_create_tags_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_13_124057_create_tags_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_13_124152_create_replies_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_13_124152_create_replies_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/first.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/first.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/footer.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/nav.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/home.blade.php" afterDir="false" />
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/app/Http/Livewire/Home/Home.php" />
+    </disable_hints>
+  </component>
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/mcamara/laravel-localization" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gY2nObxfiYI6w7d4gt2j15VJoF" />
+<<<<<<< HEAD
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+=======
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Livewire/Home" />
+      <recent name="$PROJECT_DIR$/resources/views/inc" />
+      <recent name="$PROJECT_DIR$/resources/views/visitor" />
+    </key>
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae22b543-7ecb-4e9c-aff3-2b222844e1e9" name="Default Changelist" comment="" />
+      <created>1598277374645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598277374645</updated>
+      <workItem from="1598277377269" duration="1398000" />
+      <workItem from="1598372723274" duration="1352000" />
+<<<<<<< HEAD
+      <workItem from="1599062004157" duration="8686000" />
+=======
+      <workItem from="1598463912825" duration="982000" />
+      <workItem from="1598464906551" duration="227000" />
+      <workItem from="1598465142758" duration="53000" />
+      <workItem from="1598465208343" duration="2108000" />
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state x="172" y="29" width="1012" height="701" key="SettingsEditor" timestamp="1599067020538">
+      <screen x="0" y="29" width="1366" height="701" />
+    </state>
+    <state x="172" y="29" width="1012" height="701" key="SettingsEditor/0.29.1366.701@0.29.1366.701" timestamp="1599067020538" />
+    <state x="346" y="51" width="672" height="678" key="search.everywhere.popup" timestamp="1599064625749">
+      <screen x="0" y="29" width="1366" height="701" />
+    </state>
+    <state x="346" y="51" width="672" height="678" key="search.everywhere.popup/0.29.1366.701@0.29.1366.701" timestamp="1599064625749" />
+=======
+    <state x="328" y="29" width="700" height="701" key="#PHP" timestamp="1598465364825">
+      <screen x="0" y="29" width="1366" height="701" />
+    </state>
+    <state x="328" y="29" width="700" height="701" key="#PHP/0.29.1366.701@0.29.1366.701" timestamp="1598465364825" />
+    <state x="466" y="137" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598464451351">
+      <screen x="0" y="29" width="1366" height="701" />
+    </state>
+    <state x="466" y="137" width="424" height="491" key="FileChooserDialogImpl/0.29.1366.701@0.29.1366.701" timestamp="1598464451351" />
+    <state x="285" y="29" width="1012" height="701" key="SettingsEditor" timestamp="1598465195502">
+      <screen x="0" y="29" width="1366" height="701" />
+    </state>
+    <state x="285" y="29" width="1012" height="701" key="SettingsEditor/0.29.1366.701@0.29.1366.701" timestamp="1598465195502" />
+>>>>>>> 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c
+  </component>
+</project>

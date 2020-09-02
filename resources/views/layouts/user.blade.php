@@ -1,9 +1,4 @@
 
-@include('inc/header')
-
-
-
-
-
-@include('inc/nav')
-@include('inc/footer')
+@include('inc/first')
+@yield('content')
+@include('inc/last')

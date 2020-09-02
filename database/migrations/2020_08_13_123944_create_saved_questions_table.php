@@ -17,6 +17,8 @@ class CreateSavedQuestionsTable extends Migration
             $table->id();
             $table->foreignId('user_id');
             $table->foreign('user_id')->references('id')->on('users');
+            $table->foreignId('question_id');
+            $table->foreign('question_id')->references('id')->on('questions');
             $table->timestamps();
         });
     }

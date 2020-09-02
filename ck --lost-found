@@ -1,0 +1,84 @@
+[33mcommit fa6a63926acc259b371084ee85157841e3462367[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Sep 2 20:34:02 2020 +0200
+
+    add
+
+[33mcommit e617c928da33ad73524e92d3ce241677417bf322[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Sep 2 20:25:50 2020 +0200
+
+    a
+
+[33mcommit 0c947542d9f242dcf132ab0175e1f2e68addd2a1[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Sep 2 20:24:43 2020 +0200
+
+    new
+
+[33mcommit f6594bd98328833fc7f706807caee5b28df15d84[m
+Merge: a0e51f2 9be29b5
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Sep 2 20:21:38 2020 +0200
+
+    new
+
+[33mcommit a0e51f259e6c10ed1bbeb4ca1262d68044185064[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Sep 2 20:20:04 2020 +0200
+
+    adding new features
+
+[33mcommit 9be29b5fb7bce485a7d4ab264b8195bb9c8a197c[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Wed Aug 26 20:44:21 2020 +0200
+
+    updating
+
+[33mcommit ac0b59848fdee671ff01be062103b0ebd7056561[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Sun Aug 23 20:45:58 2020 +0200
+
+    adding reset password
+
+[33mcommit 3d832bdedfd4cdc87f759fb77bde9c7c97349cfc[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Thu Aug 20 12:32:26 2020 +0200
+
+    login and register
+
+[33mcommit 3d5c5f1f023080ee0038c2c01cc2f9b200b43723[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Tue Aug 18 14:40:36 2020 +0200
+
+    adding intervention and designing register form
+
+[33mcommit 552ad964258927e772c81c65ae92672cae8f3c39[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Mon Aug 17 01:36:31 2020 +0200
+
+    adding jwt and mcamara and fixing nav responsive
+
+[33mcommit 09fd41b5364b49ddcdc5a837ea794b0e0db22388[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Sun Aug 16 23:00:05 2020 +0200
+
+    changing the design
+
+[33mcommit f759f997f035e83fa04838598102d8c61a613a56[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Sun Aug 16 01:13:55 2020 +0200
+
+    adding login and singup forms
+
+[33mcommit 89cde4b4acf4fe372b1a1565f6080f1bbf665508[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Sat Aug 15 18:19:29 2020 +0200
+
+    adding live wire and tailwind
+
+[33mcommit 8b9188a8f19f93f1b501133fb1b41fb0af2fcd70[m
+Author: ahmedmohamed24 <ahmedmohamed.developer1997@gmail.com>
+Date:   Sat Aug 15 16:53:53 2020 +0200
+
+    first commit

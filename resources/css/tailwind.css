@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+    @apply font-bold py-2 px-4 rounded;
+}
+.btn-blue {
+    @apply bg-blue-500 text-white;
+}
+.btn-blue:hover {
+    @apply bg-blue-600;
+}
+.btn-yellow {
+    @apply bg-yellow-500 text-white;
+}
+.btn-yellow:hover {
+    @apply bg-yellow-600;
+}
+.btn-white {
+    @apply bg-gray-200 text-black rounded-none;
+}
+.btn-white:hover {
+    @apply bg-gray-500;
+}
+
+.flex-cc {
+    @apply flex items-center align-middle justify-center;
+}
+
