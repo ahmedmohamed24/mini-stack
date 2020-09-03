@@ -7,6 +7,7 @@
         </svg>
         <span class="mt-2 text-base leading-normal">Select a file</span>
         <input type='file' value="{{ old('image') }}" class="hidden" id="image" wire:model="img"/>
+
     </label>
 </div>
 @if ($img)

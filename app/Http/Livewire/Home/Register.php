@@ -22,7 +22,7 @@ class Register extends Component
 
     public function submit()
     {
-        //$this->img=$this->emit('imageChoosen');
+
         $this->validate([
             'name' => 'required|string|min:2|max:100',
             'email' => 'required|email|max:100|unique:users,email',

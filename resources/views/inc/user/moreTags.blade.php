@@ -1,34 +1,7 @@
 <div class="slider w-full bg-white flex flex-row  items-center overflow-auto">
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
-    <div class="tag my-10 mx-5 p-4 w-1/12 bg-gray-300 rounded-full border-2 text-blue-700">HTML</div>
+    @foreach($moreTags as $tag)
+        <div class="tag my-10 mx-5 p-4  bg-gray-300 rounded-full border-2 text-blue-700">{{ $tag->title }}</div>
+    @endforeach
 </div>
 
 <style>

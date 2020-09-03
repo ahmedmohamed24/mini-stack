@@ -68,6 +68,7 @@
                 </div>
                 {{-- Image upload --}}
                 @include('inc.upload')
+                @include('inc.errors.image')
                 {{-- register buttons and social register icons
                 --}}
                 <div class="w-full md:w-full px-3 mb-6">

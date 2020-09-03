@@ -16,7 +16,7 @@ class CreateTagsTable extends Migration
         Schema::create('tags', function (Blueprint $table) {
             $table->id();
             $table->integer('popularity');
-            $table->string('title',50);
+            $table->string('title',50)->unique();
         });
     }
 

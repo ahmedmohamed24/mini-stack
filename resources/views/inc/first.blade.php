@@ -6,6 +6,15 @@
         {{-- google sign in --}}
         <meta name="google-signin-client_id" content="{{ env('GOOGLE_CLIENT_ID') }}">
         <title>@yield('title')</title>
+        {{--for checking the adblock--}}
+        <script>let isAdBlockActive = true;</script>
+        <script src="{{  asset('assets/js/prebid-ads.js') }}"></script>
+        <script>
+            if (isAdBlockActive) {
+                window.stop();
+                alert("Please Stop your adblock to continue browsing ");
+            }
+        </script>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
