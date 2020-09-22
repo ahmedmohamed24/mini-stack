@@ -18035,10 +18035,6 @@ video {
 
 .btn {
   font-weight: 700;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
   border-radius: 0.25rem;
 }
 
@@ -18093,6 +18089,18 @@ video {
   align-items: center;
   vertical-align: middle;
   justify-content: center;
+}
+
+.main-blue{
+  color: #18A0FB;
+}
+
+.main-background-blue{
+  background-color: #18A0FB;
+}
+
+.main-border-blue{
+  border:1px solid #18A0FB;
 }
 
 @media (min-width: 640px) {

@@ -7,7 +7,7 @@
         <meta name="google-signin-client_id" content="{{ env('GOOGLE_CLIENT_ID') }}">
         <title>@yield('title')</title>
         {{--for checking the adblock--}}
-        <script>let isAdBlockActive = true;</script>
+        <script>let isAdBlockActive = false;</script>
         <script src="{{  asset('assets/js/prebid-ads.js') }}"></script>
         <script>
             if (isAdBlockActive) {

@@ -19419,9 +19419,9 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/miniStack/resources/js/app.js */"./resources/js/app.js");
-__webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/miniStack/resources/sass/app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/miniStack/resources/css/tailwind.css */"./resources/css/tailwind.css");
+__webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/mini-stack/resources/js/app.js */"./resources/js/app.js");
+__webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/mini-stack/resources/sass/app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! /opt/lampp/htdocs/laravel-projects/mini-stack/resources/css/tailwind.css */"./resources/css/tailwind.css");
 
 
 /***/ })

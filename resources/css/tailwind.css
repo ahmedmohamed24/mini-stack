@@ -4,7 +4,7 @@
 
 
 .btn {
-    @apply font-bold py-2 px-4 rounded;
+    @apply font-bold rounded;
 }
 .btn-blue {
     @apply bg-blue-500 text-white;
@@ -27,5 +27,15 @@
 
 .flex-cc {
     @apply flex items-center align-middle justify-center;
+}
+
+.main-blue{
+    color: #18A0FB;
+}
+.main-background-blue{
+    background-color: #18A0FB;
+}
+.main-border-blue{
+    border:1px solid #18A0FB;
 }
 
